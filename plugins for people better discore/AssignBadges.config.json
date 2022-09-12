@@ -1,0 +1,28 @@
+{
+    "currentVersionInfo": {
+        "version": "1.0.29",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "535569579187896380": {
+            "PREMIUM": false,
+            "CERTIFIED_MODERATOR": false,
+            "EARLY_VERIFIED_DEVELOPER": false,
+            "BUG_HUNTER_LEVEL_1": false,
+            "BUG_HUNTER_LEVEL_2": false,
+            "EARLY_SUPPORTER": false,
+            "HYPESQUAD_ONLINE_HOUSE_1": false,
+            "STAFF": false,
+            "PARTNER": false,
+            "boost": "boost9"
+        },
+        "657330035002179615": {
+            "PREMIUM": false,
+            "boost": "boost1",
+            "CERTIFIED_MODERATOR": false,
+            "EARLY_VERIFIED_DEVELOPER": false,
+            "STAFF": false,
+            "PARTNER": false
+        }
+    }
+}
